@@ -63,7 +63,7 @@ Here's an overview of the top data analyst roles in 2023:
 - **Variety in Titles:** The roles range from Data Analyst to Director of Analytics, emphasizing the wide array of positions and specializations available within the data analytics field.
 
 ![Top Paying Roles](assets_new/1_top_paying_roles.png)
-*Clustered bar chart showing the average yearly salary for each job title and company; ChatGPT generated this graph using JSON of my SQL query results *
+*Clustered bar chart showing the average yearly salary for each job title and company; ChatGPT generated this graph using JSON of my SQL query results*
 
 # What I Learned
 # Conclusions
