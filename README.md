@@ -254,5 +254,5 @@ Key insights from the analysis include:
 
 This project improved my SQL expertise and offered valuable insights into the data analyst job market. The analysis results provide a roadmap for prioritizing skill development and streamlining job search strategies. By focusing on skills that are both in high demand and command competitive salaries, aspiring data analysts can strengthen their position in a competitive job market. This exploration underscores the importance of ongoing learning and staying adaptable to evolving trends in data analytics.
 
-
+Finally, special thanks to the great [Luke Barousse](https://lukebarousse.com/), whose guidance made this project possible.
 
